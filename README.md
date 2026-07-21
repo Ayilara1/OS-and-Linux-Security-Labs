@@ -80,7 +80,7 @@ The objective of these labs is to develop practical skills in:
 
 ## 🐧 Operating System Fundamentals
 
-- 📄 [Operating System Fundamentals Report](operating%20system%20fundamental2.md)
+- 📄 [Operating System Fundamentals Report1](operating%20system%20fundamental2.md)
 - 📄 [Operating System Fundamentals Report2](operating%20system%20fundamental1.md)
 ---
 
