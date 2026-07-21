@@ -1,4 +1,19 @@
 # OS-and-Linux-Security-Labs
-Operating Systems Fundamentals,  
-Kali Linux Tools and System Security – Labs 
-Secure User Access Management in Linux – Labs
+01-SOC-Detection-Lab/
+│
+├── README.md
+├── Operating Systems Fundamental1.md
+├── Kali Linux Tools and System Security – Labs.md
+├── Secure User Access Management in Linux – Labs.md
+├── MITRE-Mapping.md
+├── screenshots/
+│   ├── detection.png
+│   ├── dashboard.png
+│   └── timeline.png
+├── splunk-queries/
+│   ├── powershell_detection.spl
+│   └── registry_detection.spl
+└── assets/
+  
+
+
