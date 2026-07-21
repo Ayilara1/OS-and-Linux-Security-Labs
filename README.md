@@ -1,6 +1,6 @@
 # OS-and-Linux-Security-Labs
 ├── README.md
-├── [SOC Detection Lab](01-SOC-Detection-Lab/README.md)
+├── [operating system fundamental2(1).md](/README.md)
 ├── Kali Linux Tools and System Security – Labs.md
 ├── Secure User Access Management in Linux – Labs.md
 ├── MITRE-Mapping.md
