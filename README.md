@@ -1,6 +1,4 @@
 # OS-and-Linux-Security-Labs
-01-SOC-Detection-Lab/
-│
 ├── README.md
 ├── Operating Systems Fundamental1.md https://github.com/Ayilara1/OS-and-Linux-Security-Labs/blob/main/operating%20system%20fundamental1.md
 ├── Kali Linux Tools and System Security – Labs.md
