@@ -1,18 +1,8 @@
-## International Cybersecurity and Digital Forensic
-## Academy
-## PROGRAMME: CYBERSECURITY AND ETHICAL
-## HACKING INTERNSHIP
-## ASSIGNMENT
-## PRESENTED BY
-## AYILARA BUSARI DARE
-## IDEAS/24/28133
-## COURSE CODE: INT30 1
-## COURSE TITLE: Operating Systems Fundamentals
+## Operating Systems Fundamentals
 
 ---
-
-INT301: Operating Systems Fundamentals – Week 1 Labs : Investigate Kali Linux
-An operating system (OS ) is the fundamental software that manages a computer's
+## Executive Summary
+ Investigate Kali Linux, An operating system (OS ) is the fundamental software that manages a computer's
 hardware and software resources, providing a user interface and enabling
 communication between hardware and software.
 Key Concepts:
