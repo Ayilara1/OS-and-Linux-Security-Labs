@@ -93,25 +93,25 @@ The objective of these labs is to develop practical skills in:
 
 ## 👥 Linux User Management
 
-- 📄 [User Management Lab](User%20management.pdf)
+- 📄 [User Management Lab](User%20management.md)
 
 ---
 
 ## 🌐 Web Application Security
 
-- 📄 [Web Application Security Testing](Web%20Application%20Security%20Testing.pdf)
+- 📄 [Web Application Security Testing](Web%20Application%20Security%20Testing.md)
 
 ---
 
 ## ⚔️ Kali Linux Security
 
-- 📄 [Kali Linux Tools and System Security](kali%20linux%20tools%20and%20system%20security.pdf)
+- 📄 [Kali Linux Tools and System Security](kali%20linux%20tools%20and%20system%20security.md)
 
 ---
 
 ## 💥 Exploitation
 
-- 📄 [Exploitation & Web Application Security](Exploitation,%20Web%20Application%20Security.pdf)
+- 📄 [Exploitation & Web Application Security](Exploitation,%20Web%20Application%20Security.md)
 
 ---
 
