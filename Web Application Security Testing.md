@@ -75,7 +75,7 @@ The intercepted HTTP request contained the following important headers:
 | X-Powered-By | PHP 5.6.40 |
 | Content-Length | 4958 Bytes |
 
-[HTTP request and response headers](screenshots/web%20Application%20security/Picture1.jpg)
+![HTTP request and response headers](screenshots/web%20Application%20security/Picture1.jpg)
 
 ### Security Observation
 
