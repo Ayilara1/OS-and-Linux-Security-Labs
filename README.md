@@ -111,7 +111,7 @@ The objective of these labs is to develop practical skills in:
 
 ## 💥 Exploitation
 
-- 📄 [Exploitation & Web Application Security](Exploitation,%20Web%20Application%20Security.md)
+- 📄 [Exploitation & Web Application Security](Exploitation%20%26%20Web%20Application%20Security.md)
 
 ---
 
