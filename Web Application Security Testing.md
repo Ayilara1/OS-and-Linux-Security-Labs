@@ -236,7 +236,7 @@ SQL Injection can allow attackers to:
 - Bypass authentication mechanisms.
 - Execute administrative actions.
 
-![injection ](screenshots/web%20Application%20security/Picture5.jpg)
+![injection](screenshots/web%20Application%20security/Picture5.png)
 
 ### Recommended Mitigation
 
