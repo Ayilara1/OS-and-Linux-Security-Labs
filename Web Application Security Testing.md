@@ -75,6 +75,8 @@ The intercepted HTTP request contained the following important headers:
 | X-Powered-By | PHP 5.6.40 |
 | Content-Length | 4958 Bytes |
 
+[HTTP request and response headers](screenshots/web%20Application%20security/Picture1.jpg)
+
 ### Security Observation
 
 The response headers disclosed the underlying web server and PHP version, providing attackers with information that could be used for targeted exploitation if known vulnerabilities exist.
