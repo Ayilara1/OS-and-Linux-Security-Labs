@@ -95,6 +95,8 @@ Burp Suite's crawler identified multiple application resources.
 - `/ShockwaveFlash/`
 - Multiple external references (Acunetix, W3C, Macromedia)
 
+![URL discovery](screenshots/web%20Application%20security/Picture2.jpg)
+
 ### Observation
 
 Spidering successfully enumerated hidden resources and application endpoints, demonstrating how attackers can discover content that may not be directly linked from the application's homepage.
@@ -127,6 +129,8 @@ Although not critical, exposed email addresses can:
 - Assist phishing campaigns
 - Support social engineering attacks
 - Increase spam exposure
+
+![Vulnerabilities](screenshots/web%20Application%20security/Picture3.jpg)
 
 ### Recommendation
 
@@ -176,6 +180,8 @@ OWASP ZAP identified **11 vulnerabilities** during the assessment.
 ### Risk
 
 Cross-Site Request Forgery (CSRF)
+
+![OWASP ZAP](screenshots/web%20Application%20security/Picture4.jpg)
 
 ### Impact
 
@@ -229,6 +235,10 @@ SQL Injection can allow attackers to:
 - Modify application data.
 - Bypass authentication mechanisms.
 - Execute administrative actions.
+
+![injection ](screenshots/web%20Application%20security/Picture5.jpg)
+![SQL injection](screenshots/web%20Application%20security/Picture6.jpg)
+![successful SQL injection](screenshots/web%20Application%20security/Picture7.jpg)
 
 ### Recommended Mitigation
 
