@@ -237,8 +237,6 @@ SQL Injection can allow attackers to:
 - Execute administrative actions.
 
 ![injection ](screenshots/web%20Application%20security/Picture5.jpg)
-![SQL injection](screenshots/web%20Application%20security/Picture6.jpg)
-![successful SQL injection](screenshots/web%20Application%20security/Picture7.jpg)
 
 ### Recommended Mitigation
 
