@@ -87,7 +87,7 @@ The objective of these labs is to develop practical skills in:
 
 ## 🔐 Linux Security Hardening
 
-- 📄 [Strengthening System Security on Linux Servers](Strengthening%20System%20Security%20on%20Linux%20Servers.pdf)
+- 📄 [Strengthening System Security on Linux Servers](Strengthening%20System%20Security%20on%20Linux%20Servers.md)
 
 ---
 
