@@ -417,8 +417,10 @@ sudo ausearch -k user-logins
 
 sudo ausearch -k passwd-modifications
 ```
-<img width="975" height="736" alt="image" src="https://github.com/user-attachments/assets/5526d4da-c3aa-4978-ba98-7f446603619f" />
 <img width="975" height="729" alt="image" src="https://github.com/user-attachments/assets/8d8e45a8-7a5d-4514-a5a5-189d732a7af7" />
+
+<img width="975" height="736" alt="image" src="https://github.com/user-attachments/assets/5526d4da-c3aa-4978-ba98-7f446603619f" />
+
 
 ---
 
