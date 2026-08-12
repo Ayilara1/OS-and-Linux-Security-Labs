@@ -65,6 +65,10 @@ uid=1001(student1)
 gid=1001(student1)
 groups=1001(student1)
 ```
+<img width="975" height="763" alt="image" src="https://github.com/user-attachments/assets/767c8e09-863c-4171-bdd7-0a9beed36682" />
+
+<img width="2114" height="2369" alt="Picture1" src="https://github.com/user-attachments/assets/4973b276-bf14-4f75-949c-c6b1a33f8eff" />
+
 
 ### Result
 
@@ -105,11 +109,15 @@ Example Output
 
 ---
 
+<img width="902" height="527" alt="image" src="https://github.com/user-attachments/assets/9e34c236-f02d-48bc-b798-17279b61bf33" />
+
 ## Modify File Permissions
 
 ```bash
 chmod 755 manage.txt
 ```
+
+<img width="975" height="524" alt="image" src="https://github.com/user-attachments/assets/05285d62-a712-4e1d-aaec-bea1594ff6fc" />
 
 Permission Breakdown
 
