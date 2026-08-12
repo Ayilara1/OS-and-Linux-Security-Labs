@@ -87,6 +87,8 @@ Domains tested
 
 Network connectivity to all targets was successful. Packet loss was minimal, indicating stable connectivity during testing.
 
+<img width="975" height="526" alt="image" src="https://github.com/user-attachments/assets/ac0dc1d5-395e-4c53-b97f-1cb2b57aab05" />
+
 ---
 
 ## Exercise 2 – WHOIS Enumeration
@@ -104,6 +106,8 @@ Domains investigated
 | GitHub Expiration | 09 October 2026 |
 | LinkedIn Registrar | MarkMonitor Inc. |
 | Apple Registrant Country | United States |
+
+<img width="975" height="574" alt="image" src="https://github.com/user-attachments/assets/20f941c6-4d31-4747-985c-db2cabaaf111" />
 
 ---
 
@@ -125,6 +129,8 @@ Domains
 - IP Address
 - Name Servers
 - DNS Records
+
+<img width="733" height="619" alt="image" src="https://github.com/user-attachments/assets/2e903a5d-cbf0-4375-b0de-108d525bc810" />
 
 ---
 
@@ -155,6 +161,8 @@ Targets
 - HttpOnly Cookies
 - Content Security Policy
 
+<img width="1025" height="288" alt="image" src="https://github.com/user-attachments/assets/4b53da38-2191-4303-abc3-bd4fe87d2d58" />
+
 ---
 
 ## Aggressive WhatWeb Scan
@@ -174,6 +182,8 @@ Targets
 - Redirect Behaviour
 
 ---
+
+<img width="975" height="430" alt="image" src="https://github.com/user-attachments/assets/4a0e2aa0-52e0-44f4-b0a7-2fa6b980814c" />
 
 # Lab 3 – Subdomain Enumeration
 
@@ -214,6 +224,8 @@ Examples
 
 ---
 
+<img width="975" height="749" alt="image" src="https://github.com/user-attachments/assets/e24c5d51-70c1-4ecc-b88a-6049ebace0b1" />
+
 ## Directory Discovery
 
 Targets
@@ -244,6 +256,8 @@ Information collected
 - DNS Records
 
 ---
+
+<img width="975" height="835" alt="image" src="https://github.com/user-attachments/assets/ed0c5e68-f2d7-4e6a-9bbb-23c30aba3966" />
 
 # Lab 4 – Port Scanning and Vulnerability Assessment
 
@@ -280,6 +294,11 @@ Operating System
 
 Ubuntu Linux
 
+
+<img width="975" height="881" alt="image" src="https://github.com/user-attachments/assets/99cf2cc7-c12c-425c-8249-b74e3485a01e" />
+
+<img width="975" height="496" alt="image" src="https://github.com/user-attachments/assets/8aa967ff-d27d-4424-a6a9-1ccc0b82c234" />
+
 ---
 
 ## Vulnerability Scan
@@ -291,6 +310,8 @@ Major vulnerabilities identified
 - SSL CCS Injection
 - Cross-Domain Policy Misconfiguration
 - SMB DoS Vulnerability
+
+<img width="975" height="607" alt="image" src="https://github.com/user-attachments/assets/90722bd0-4354-4173-bec1-e84031ab4017" />
 
 ### Risk Assessment
 
@@ -315,6 +336,8 @@ Findings included
 - Outdated OpenSSL
 - Outdated Python
 - Outdated mod_ssl
+
+<img width="975" height="542" alt="image" src="https://github.com/user-attachments/assets/19065c47-d4df-41e0-a061-18807eed354d" />
 
 ### Security Recommendation
 
@@ -349,6 +372,8 @@ Protocols observed
 |HTTP|8|
 |DNS|375|
 
+<img width="806" height="456" alt="image" src="https://github.com/user-attachments/assets/09208f7f-f253-4ae2-8e6d-5327fcd9eec7" />
+
 ---
 
 ## Packet Inspection
@@ -371,11 +396,15 @@ Observation
 
 HTTPS traffic remained encrypted, preventing inspection of application-layer content.
 
+<img width="796" height="534" alt="image" src="https://github.com/user-attachments/assets/eefc47c1-f9ec-44e8-b8a1-f5d5647a3345" />
+
 ---
 
 ## IO Graph Analysis
 
 The IO Graph showed bursts of TCP activity followed by periods of lower utilization, indicating normal browsing behaviour rather than sustained flooding or denial-of-service activity.
+
+<img width="905" height="411" alt="image" src="https://github.com/user-attachments/assets/04ef6caa-2cef-4f09-a87d-7a39ede64dae" />
 
 ---
 
@@ -404,6 +433,8 @@ ip.addr==192.168.72.171
 
 tcp.port==80
 ```
+
+<img width="940" height="491" alt="image" src="https://github.com/user-attachments/assets/d1835563-5785-4197-a1f2-6fdc3a98ac73" />
 
 ---
 
