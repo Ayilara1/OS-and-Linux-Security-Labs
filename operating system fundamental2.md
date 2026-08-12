@@ -67,6 +67,8 @@ echo "Hello, World!"
 
 Successfully created and executed the first Bash script.
 
+<img width="763" height="531" alt="image" src="https://github.com/user-attachments/assets/2bd6ed41-4e63-487c-a023-e5ea9c57b4fc" />
+
 ---
 
 ## Task 2 – Variables
@@ -84,6 +86,8 @@ echo "Hello, $name!"
 ### Result
 
 Verified that variables can store and display values dynamically.
+
+<img width="713" height="242" alt="image" src="https://github.com/user-attachments/assets/b7ccae89-c920-4b45-ac27-9fc6c66dc3c9" />
 
 ---
 
@@ -106,6 +110,8 @@ fi
 ### Result
 
 Implemented decision-making using `if-else`.
+
+<img width="827" height="489" alt="image" src="https://github.com/user-attachments/assets/977b8bac-dd03-465a-a89e-44d1c9599a65" />
 
 ---
 
@@ -135,6 +141,8 @@ done
 ### Result
 
 Successfully automated repetitive tasks.
+
+<img width="656" height="450" alt="image" src="https://github.com/user-attachments/assets/a7e578fe-86bd-49cc-9043-2b554fa6ecc2" />
 
 ---
 
@@ -215,6 +223,8 @@ chmod -R 755 /home/labdir
 ```bash
 setfacl -m u:john:r /home/labfile.txt
 ```
+
+<img width="959" height="747" alt="image" src="https://github.com/user-attachments/assets/054119b5-6551-4add-8db4-415497eee7ab" />
 
 ---
 
